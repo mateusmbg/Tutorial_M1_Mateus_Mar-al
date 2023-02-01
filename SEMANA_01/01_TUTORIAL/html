@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?fami--ly=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header><h1>Métodos Contraceptivos</h1></header>
+    <section>
+        <div class="text-image">
+            <p>Os métodos contraceptivos podem ser classificados como reversíveis e irreversíveis. Tais métodos visam, sobretudo, o controle da natalidade como forma de evitar gravidez indesejada, e não necessariamente
+            previnem IST's.</p>
+            <div class="img">
+                <img src="https://imgur.com/a/NI613SP" alt="">
+            </div>
+        </div>
+        <p>Lembrando que não é indicado à adolescentes realizar métodos irreversíveis, já que após usá-los é muito difícil recuperar a capacidade de engravidar, mas é importante que ter ciência deles.</p>
+        <p>Em um baixíssimo número de pessoas que realizam esses métodos cirúrgicos, pode ocorrer uma recanalização tubária ou do ducto deferente que pode restabelecer as funções. No Brasil, é vigente uma legislação específica, que impõe algumas restrições e requisitos, para autorização dos procedimentos de vasectomia e laqueadura.</p>
+    </section>
+    <section>
+        <h2>Camisinha/camisinha masculina</h2>
+        <p>Preservativo externo, masculino ou peniano, trata-se de uma espécie de capa de borracha, que tem como objetivo primário barrar a entrada do sêmen no útero.</p>
+        <div class="centralized-img">
+            <img src="https://imgur.com/a/mu7rOwl" alt="">
+        </div>
+        <p>Coloca-se antes da penetração, com o pênis em ereção, de forma que fique uma folga na ponta. Aperta-se para tirar o ar. Desenrola-se a camisinha até a base do pênis. Após a ejaculação, retira-se o pênis ereto, manipulando o preservativo pela borda como forma de evitarvazamento do sêmen.</p>
+    </section>
+    <section>
+        <h2>Violência e consentimento</h2>
+        <p><strong>Entendendo um pouco sobre consentimento...</strong></p>
+        <p>O conceito de consentimento é aceitar, permitir. É importante entender a necessidade de respeitar nosso corpo e vontades, e, neste mesmo sentido, entender o direito do outro sobre seu corpo e vontades.</p>
+        <div class="class text-img-no">
+            <p><i>“Quando o assunto envolve sexo, silêncio ou indiferença também não significa consentimento”</i></p>
+            <div class="image-no">
+                <img src="https://imgur.com/a/yPO7dH5" alt="">
+            </div>
+        </div>
+        <p>É considerado <strong>abuso sexual qualquer prática</strong> com teor sexual <strong>em que não há o consentimento da outra pessoa.</strong></p>
+        <p>Como a tentativa de estupro, sexo oral forçado e toques indesejados em áreas intimas. Apesar desses exemplos, nem sempre o abuso sexual é somente físico, o assédio por exemplo, também pode ser enquadrado como abuso. Na maioria dos casos os abusadores são conhecidos e pessoas consideradas de confiança, como amigos, namorados e familiares.</p>
+        <p><strong>O que é considerado abuso sexual sem contato físico?</strong></p>
+        <p>Assédio sexual: Fazer propostas de relações sexuais, podendo envolver ameaças ou chantagem.</p>
+        <p>Mostrar os órgãos genitais ou se masturbar enquanto a criança assiste.</p>
+        <p>A exibição de vídeos, fotos e materiais pornográficos como meio de "excitar" ou chocar a/o criança/adolescente.</p>
+        <p>Olhar fixamente o corpo da criança para obter algum tipo de satisfação, como observar tomar banho e se vestir.</p>
+        <p>Mostrar os órgãos genitais ou se masturbar enquanto a criança assiste.</p>
+    </section>
+    <section>
+        <h2>Gênero e sexualidade</h2>
+        <p><strong>LGBTQIA+</strong>, diversas letras, mas o que significam exatamente cada uma delas? Vamos entender?</p>
+        <p>LGBTQIA+ é o movimento político e social que defende a diversidade e busca mais representatividade e direitos para essa população. O seu nome demonstra a sua luta por mais igualdade e respeito à diversidade. Cada letra representa um grupo de pessoas.</p>
+        <p><strong>L = Lésbicas</strong></p>
+        </p>São mulheres que sentem atração afetiva/sexual pelo mesmo gênero, ou seja, outras mulheres.</p>
+        <p><strong>G = Gays</strong></p>
+        <p>São homens que sentem atração afetiva/sexual pelo mesmo gênero, ou seja, outros homens.</p>
+        <p><strong>B = Bissexuais</strong></p>
+        <p>Diz respeito aos homens e mulheres que sentem atração afetivo/sexual pelos gêneros masculino e feminino. Ainda segundo o manifesto, a bissexualidade não tem relação direta com poligamia, promiscuidade, infidelidade ou comportamento sexual inseguro. Esses comportamentos podem ser tidos por quaisquer pessoas, de quaisquer orientações sexuais.</p>
+        <p><strong>T = Transgênero</strong></p>
+        <p>Diferentemente das letras anteriores, o T não se refere a uma orientação sexual, mas a identidades de gênero. Também chamadas de “pessoas trans”, elas podem ser transgênero (homem ou mulher), travesti (identidade feminina) ou pessoa não-binária, que se compreende além da divisão “homem e mulher”.</p>
+        <p><strong>Q = Queer</strong></p>
+        <p>Pessoas com o gênero 'Queer' são aquelas que transitam entre as noções de gênero, como é o caso das drag queens. A teoria queer defende que a orientação sexual e identidade de gênero não são resultado da funcionalidade biológica, mas de uma construção social.</p>
+        <p><strong>I = Intersexo</strong></p>
+        <p>A pessoa intersexo está entre o feminino e o masculino. As suas combinações biológicas e desenvolvimento corporal – cromossomos, genitais, hormônios, etc – não se enquadram na norma binária (masculino ou feminino).</p>
+        <p><strong>A = Assexual</strong></p>
+        <p>Assexuais não sentem atração sexual por outras pessoas, independente do gênero. Existem diferentes níveis de assexualidade e é comum essas pessoas não verem as relações sexuais humanas como prioridade.</p>
+        <p>O símbolo de <strong>“mais”</strong> no final da sigla aparece para incluir outras identidades de gênero e orientações sexuais que não se encaixam no padrão cis-heteronormativo, mas que não aparecem em destaque antes do símbolo.</p>
+    </section>
+    <section>
+        <h4><strong>Por que o Movimento LGBTQIA+ é importante?</strong></h4>
+        <div class="lgbt-img">
+            <img src="https://catracalivre.com.br/wp-content/uploads/2022/06/lgbtqia.jpg" alt="" width="99%" height="99%">
+        </div>
+        <p>Apesar de não ser um movimento centralizado e único nos seus mais diversos núcleos ao redor do mundo, existem inúmeras organizações não-governamentais que atuam nesse sentido, oferecendo apoio para essa parcela da sociedade.</p>
+        <p>Sempre enfrentando ondas de preconceito e de ódio, <strong>o Movimento LGBTQIA+ age em busca da igualdade social.</strong> Seja por meio da conscientização das pessoas contra bifobia, homofobia, lesbofobia e transfobia. Seja pelo aumento da representatividade das pessoas LGBTQIA+ nos mais diversos setores da sociedade.</p>
+        <p> Naturalmente, como todo e qualquer movimento social, o movimento LGBTQIA+ é composto por uma ampla rede de ativismo político. Inclui as famosas marchas de rua, bem como grupos voltados para a mídia, as artes e até mesmo as pesquisas acadêmicas.</p>
+        <p>Ser uma pessoa LGBTQIA+ ainda é considerado crime em mais de 70 países, sendo que 13 punem com a pena de morte.</p>
+    </section>
+    <section>
+            <h2>Gravidez</h2>
+            <p>A gravidez é um momento bastante delicado na vida de uma mulher e envolve modificações no corpo e alterações psicológicas. Diante desse momento delicado, é importante que a mulher conheça bem as mudanças que irão ocorrer em seu corpo durante esses meses e tenha acompanhamento especializado. Os cuidados deverão ser ainda maiores naquelas gravidezes consideradas de risco.</p>
+            <div class="preg-img">
+                <img src="https://imgur.com/a/ZyP63T2" alt="">
+            </div>
+            <p>É um período que dura cerca de 40 semanas (280 dias) e é o resultado do processo de fecundação de um ovócito por um espermatozoide e posterior fixação do zigoto na cavidade uterina. A gravidez envolve o desenvolvimento do feto no interior do útero da mulher e é um período que se estende até a expulsão do bebê no momento do parto.</p>
+            <h4><strong>Sintomas da gravidez</strong></h4>
+            <p>"Durante toda a gestação, o corpo da mulher irá passar por mudanças para se adaptar à chegada de uma nova vida. Inicialmente, essas modificações podem desencadear alguns sinais que fazem com que a mulher suspeite de uma gravidez. Entre aos principais sinais de uma gravidez, podemos citar:
+        <ul>
+            <li>Atraso menstrual</li>
+            <li>Aumento do volume dos seios
+            <li>Hipersensibilidade dos mamilos</li>
+            <li>Aumento do volume abdominal</li>
+            <li>Aumento do sono</li>
+            <li>Aumento da fome</li>
+            <li>Náuseas e vômitos</li>
+            <li>Tonturas</li>
+            <li>Cansaço</li>
+        </ul>
+        Vale destacar que a presença desses sinais não representa necessariamente uma gravidez, entretanto, esses são sinais de alerta e indicam a necessidade de realizar-se uma consulta médica para confirmar ou descartar essa hipótese. Um início precoce do pré-natal é fundamental para prevenir complicações, sendo recomendado que o pré-natal seja iniciado até a 12ª semana.</p>
+    </section>
+</body>
+</html>
