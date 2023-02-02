@@ -1,9 +1,14 @@
 extends Node # instancia a classe Node2D
 
-var status = 1
-var vscore = 0
-var x = 1.5 
-var y = 1.5 
+var status = 0
+#ele define o estado do jogo/dragão
+#exemplo = quando o status é igual a 0, a tela starta no game over
+var vscore = 10
+#define a pontuação inicial do game
+var x = 5
+#define a velocidade horizontal
+var y = 2.0
+#define a velocidade vertical, o que altera a gravidade e a relação com os comandos de subir e descer
 
 # executa essa função ao carregar o jogo
 func _ready():
