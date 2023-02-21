@@ -1,0 +1,82 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://exemplo.gd" type="Script" id=4]
+[ext_resource path="res://lista.gd" type="Script" id=5]
+
+[sub_resource type="GDScript" id=1]
+script/source = "extends Button
+
+
+"
+
+[sub_resource type="GDScript" id=2]
+script/source = "extends Button
+
+"
+
+[sub_resource type="GDScript" id=3]
+script/source = "extends Button
+
+"
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource( 5 )
+
+[node name="criar_texto" type="Button" parent="."]
+margin_left = 513.0
+margin_top = 68.0
+margin_right = 673.0
+margin_bottom = 139.0
+text = "CRIAR TEXTO"
+script = SubResource( 1 )
+
+[node name="criar_lista" type="Button" parent="."]
+margin_left = 301.0
+margin_top = 64.0
+margin_right = 454.0
+margin_bottom = 135.0
+text = "CRIAR LISTA"
+script = SubResource( 2 )
+
+[node name="exemplo" type="Button" parent="."]
+margin_left = 92.0
+margin_top = 64.0
+margin_right = 246.0
+margin_bottom = 131.0
+text = "EXEMPLO"
+script = ExtResource( 4 )
+
+[node name="deletar" type="Button" parent="."]
+margin_left = 740.0
+margin_top = 71.0
+margin_right = 906.0
+margin_bottom = 140.0
+text = " DELETAR"
+script = SubResource( 3 )
+
+[node name="LineEdit" type="LineEdit" parent="."]
+margin_left = 497.0
+margin_top = 167.0
+margin_right = 886.0
+margin_bottom = 489.0
+custom_colors/selection_color = Color( 0, 0, 0, 1 )
+align = 3
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_left = 95.0
+margin_top = 164.0
+margin_right = 476.0
+margin_bottom = 489.0
+
+[node name="resposta" type="RichTextLabel" parent="ColorRect"]
+modulate = Color( 0, 0, 0, 1 )
+self_modulate = Color( 0, 0, 0, 1 )
+margin_left = 31.0
+margin_top = 15.0
+margin_right = 353.0
+margin_bottom = 305.0
+
+[connection signal="pressed" from="criar_texto" to="." method="_on_criar_texto_pressed"]
+[connection signal="pressed" from="criar_lista" to="." method="_on_criar_lista_pressed"]
+[connection signal="pressed" from="exemplo" to="." method="_on_exemplo_pressed"]
+[connection signal="pressed" from="deletar" to="." method="_on_deletar_pressed"]
